@@ -1,0 +1,14 @@
+name: Solarfi Networks
+layout_spectrum: 0.7573465622040966
+typography_spectrum: 0.25591529637062915
+color:
+  brandColors:
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
+  brandStrength: 0.46342790760006425
+  lightness: 0.21501130529061419
+  saturation: 0.5322327611035632
+  rhythmicContrast: 0.13737610080795837
